@@ -1,16 +1,17 @@
-### Hi there 👋
+# Xin chào (Hello!), I'm Jennifer Tran 👋
 
-<!--
-**jennifertran/jennifertran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Twitter Follow](https://img.shields.io/twitter/follow/jenniferttran?label=Follow)
+[![Linkedin: jennifertran](https://img.shields.io/badge/-jennifertran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jennifer-tran1/)](https://www.linkedin.com/in/jennifer-tran1/)
+![GitHub followers](https://img.shields.io/github/followers/jennifertran?label=Follow&style=social)
+<img src="https://visitor-badge.glitch.me/badge?page_id=jennifertran.jennifertran" alt="visitor badge"/>
 
-Here are some ideas to get you started:
+## About me
+- 🎓 2020 Graduate from the [University of Manitoba](http://umanitoba.ca/)
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on mobile gaming applications
+- 💬 Ask me about bioinformatics, chatbots, or how to run a local hackathon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun facts
+- 📱 I love mobile JRPG's and strategy games (current favourites are Arknights and Fate/Grand Order)
+- 📺 I like to watch documentries on YouTube
+- 🐶 Proud dog owner
