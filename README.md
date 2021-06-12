@@ -6,7 +6,7 @@
 
 ## About me
 - 🎓 2020 Graduate from the [University of Manitoba](http://umanitoba.ca/)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Mulesoft
 - 👯 I’m looking to collaborate on mobile gaming applications
 - 💬 Ask me about bioinformatics, chatbots, or how to run a local hackathon
 
